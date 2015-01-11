@@ -1,6 +1,6 @@
 [user]
-	name = Jace Browning
-	email = jacebrowning@gmail.com
+	name = Dan Lindeman
+	email = lindemda@gmail.com
 [core]
 	excludesfile = /opt/boxen/config/git/gitignore
 	mergeoptions = --no-ff
